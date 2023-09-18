@@ -1,0 +1,25 @@
+
+body {
+    text-align:justify;
+    background-color: #FDF4ED;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 5%;
+}
+
+header {
+    text-align:end;
+    font-style: italic;
+}
+
+#tittle {
+    font-style: italic;
+}
+
+ul.not-points {
+    list-style-type: none;
+  }
+
+footer{
+   margin-top: 4%;
+   text-align:justify;
+}
